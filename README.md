@@ -10,7 +10,7 @@ This is a repo for those students who want to set up Raspberry Pi Pico developme
 ### 2.Git
 - Download [Git for Windows](https://git-scm.com/download/win).
 
-## Now you need to TICK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+## Now you need to TICK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ### 3.CMake
 - Download [CMake (Windows x64 Installer version)](https://cmake.org/download/).
