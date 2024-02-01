@@ -3,14 +3,13 @@ This is a repo for those students who want to set up Raspberry Pi Pico developme
 
 # Setup Instructions
 
-### 1.Python
-- Download Python from the [Windows downloads page](https://www.python.org/downloads/windows/).
-- Tick the 'Add Python to PATH' option during installation.
-
-### 2.Git
+### 1.Git
 - Download [Git for Windows](https://git-scm.com/download/win).
 
 ## Now you need to TICK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+### 2.Python
+- Download Python from the [Windows downloads page](https://www.python.org/downloads/windows/).
+- Tick the 'Add Python to PATH' option during installation.
 
 ### 3.CMake
 - Download [CMake (Windows x64 Installer version)](https://cmake.org/download/).
