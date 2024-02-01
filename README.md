@@ -12,7 +12,7 @@ This is a repo for those students who want to set up Raspberry Pi Pico developme
 - Tick the 'Add Python to PATH' option during installation.
 
 ### 3.CMake
-- Download [CMake (Windows x64 Installer version)](https://cmake.org/download/).
+- Download [CMake ](https://cmake.org/download/).
 - Tick 'Add CMake to the system PATH for all users'.
 
 ### 4.Visual Studio Build Tools
@@ -21,7 +21,7 @@ This is a repo for those students who want to set up Raspberry Pi Pico developme
 - Ensure 'C++ Build Tools' is included in your installation.
 
 ### 5.GNU ARM Embedded Toolchain
-- Download the [GNU ARM Embedded Toolchain (exe version)](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads).
+- Download the [GNU ARM Embedded Toolchain ](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads).
 - Select the 'Add path to environment variable' option during the installation process.
 
 ### 6.Raspberry Pi Pico Setup (no need to tick):
