@@ -1,13 +1,7 @@
 # PI_PICO-EasySetup
 This is a repo for those students who want to set up Raspberry Pi Pico development environment in VSCode.
 
-## Installation Steps
-
 # Setup Instructions
-
-Follow these instructions to set up your development environment.
-
-## Installation Steps
 
 ### 1.Python
 - Download Python from the [Windows downloads page](https://www.python.org/downloads/windows/).
